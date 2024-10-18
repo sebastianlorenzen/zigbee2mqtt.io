@@ -20,7 +20,7 @@ pageClass: device-page
 | Description | Pushbutton transmitter module |
 | Exposes | action, linkquality |
 | Picture | ![EnOcean PTM 215ZE](https://www.zigbee2mqtt.io/images/devices/PTM-215ZE.png) |
-| White-label | Easyfit by EnOcean EWSxZ, Trio2sys 20020002 |
+| White-label | Easyfit by EnOcean EWSxZ, Trio2sys 20020002, LIGHTBEE EU ZIGBEE SWITCH |
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
